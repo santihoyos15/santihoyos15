@@ -13,6 +13,8 @@
 - 👀 I’m interested in startups.
 - 📫 How to reach me: santiagohoyos2808@gmail.com
 
+- 👇 Down below you'll find the projects I'm most proud of, when you click one you'll see on the right the link to visualize it.
+
 <!---
 santihoyos15/santihoyos15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
