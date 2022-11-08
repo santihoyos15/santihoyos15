@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @santihoyos15 a Software Engineer with experience in web development. 
+- 👋 Hi, I’m @santihoyos15 a Software Engineer with experience in web development. I’m open to learning anything required to guarantee the product's quality.
+
 - 🤹‍♀️ My skills are...
     - ReactJS
     - JavaScript
@@ -7,10 +8,8 @@
     - Styled Components
     - NodeJS
     - Git. 
-  
- I’m open to learning in general and always try to deliver the best product I can.
 
-Looking for exciting projects that improve our world. 🚀
+- 🚀 Looking for exciting projects that improve our world.
 - 👀 I’m interested in startups.
 - 📫 How to reach me: santiagohoyos2808@gmail.com
 
