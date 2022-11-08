@@ -8,7 +8,7 @@
     - NodeJS
     - Git. 
   
- I’m open to learning in general and always try to deliver the best product I cans.
+ I’m open to learning in general and always try to deliver the best product I can.
 
 Looking for exciting projects that improve our world. 🚀
 - 👀 I’m interested in startups.
