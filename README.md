@@ -3,7 +3,8 @@
 - 🤹‍♀️ My skills are...
     - ReactJS
     - JavaScript
-    - NextJS 
+    - NextJS
+    - Jest 
     - TypeScript
     - Styled Components
     - NodeJS
