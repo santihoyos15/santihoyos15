@@ -4,9 +4,10 @@
     - ReactJS
     - JavaScript
     - NextJS 
-    - TypeScript 
+    - TypeScript
     - Styled Components
     - NodeJS
+    - Java
     - Git. 
 
 - 🚀 Looking for exciting projects that improve our world.
